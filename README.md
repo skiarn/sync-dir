@@ -1,6 +1,4 @@
 # sync-dir
-
-# sync-dir
 **The server application is to be used to sync files from multiple remote servers using ssh.**
 
 ### How to get started ###
