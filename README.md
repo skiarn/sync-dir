@@ -10,6 +10,9 @@ Configuration
 * linux/mac: ```export GOPATH=/project/path/sync-dir```
 * windows: ```set GOPATH=/project/path/sync-dir```
 
+## Dependencies
+* go get golang.org/x/crypto/ssh
+
 ### Build application ###
 go install sync-dir
 
